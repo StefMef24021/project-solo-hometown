@@ -1,0 +1,158 @@
+/**
+Palette: https://scrimba.com/links/hometown-palette
+RED: #E63946
+LIGHT: #F1FAEE
+AQUA: #A8DADC
+LIGHT BLUE: #457B9D
+DARK BLUE: #1D3557
+
+*/
+
+body {
+    margin: 6px;
+    text-align: center;
+    
+    
+}
+
+img {
+    width: 100px;
+}
+.skopje {
+    background-image: url(images/skopje.jpg);
+    width: 720px;
+    height: 343px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: auto;
+    border-radius: 50px;
+    
+    
+}
+h1 {
+    width: 200px;
+    height: auto;
+    text-align: center;
+    border: 0px solid #1D3557;
+    border-radius: 10px;
+    background-color: #1D3557;
+    color: #FFFFFF;
+    padding: 3px 12px 5px 12px
+    
+}
+h2 {
+    width: 355px;
+    height: auto;
+    text-align: center;
+    border: 0px solid #457B9D;
+    border-radius: 10px;
+    background-color: #457B9D;
+    color: #FFFFFF;
+    padding: 5px 29px 5px 28px
+    
+
+}
+
+#visit {
+    width: 720px;
+    height: 343px;
+    background-color: #F1FAEE;
+    border-radius: 50px;
+    padding-top: 1px;
+    display: flex;
+    flex-direction:column;
+    justify-content: space-around;
+    text-align: center;
+    
+}
+.bazaar {
+  width:200px;
+  text-align:center;
+  display:block;
+  background-color: transparent;
+  border: 1px solid transparent;
+  margin-right: 10px;
+  margin-bottom: 1px;
+  float:left;
+  
+
+    
+}
+.matka {
+  width:200px;
+  text-align:center;
+  display:block;
+  background-color: transparent;
+  border: 1px solid transparent;
+  margin-right: 10px;
+  margin-bottom: 1px;
+  float:left;
+}
+.vrelo {
+  width:200px;
+  text-align:center;
+  display:block;
+  background-color: transparent;
+  border: 1px solid transparent;
+  margin-right: 10px;
+  margin-bottom: 1px;
+  float:left;
+}
+
+.bz{
+    border-radius: 50px;
+}
+.mt {
+    border-radius: 50px;
+}
+.vr {
+    border-radius: 50px;
+}
+
+.guide {
+    border-radius: 50px;
+    width: 720px;
+    height: 394px;
+    left: 0px;
+    top: 686px;
+}
+
+.card {
+    background-color: #A8DADC;
+    border-radius: 10px;
+    width: 400px;
+    height: 294px;
+    left: 160px;
+    top: 50px;
+    box-shadow: 0px 6px 0px #1D3557;
+    margin: 50px 160px 50px 160px;
+    display: flex;
+    flex-direction: row-reverse;
+    text-align: center;
+    
+    
+    
+    
+}
+
+#stf {
+    width: 180px;
+    height: 248.67px;
+    left: 173px;
+    top: 73px;
+    border-radius: 10px;
+    margin: 23px 27px 22.33px 13px;
+    
+}
+
+#text {
+    text-align: center;
+    margin:auto;
+}
+
+#italic {
+    font-style: italic
+}
+
